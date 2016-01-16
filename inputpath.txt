@@ -1,0 +1,9 @@
+/user/hduser/input/image/1.jpg
+/user/hduser/input/image/11.jpg
+/user/hduser/input/image/12.jpg
+/user/hduser/input/image/2.jpg
+/user/hduser/input/image/3.jpg
+/user/hduser/input/image/4.jpg
+/user/hduser/input/image/5.jpg
+/user/hduser/input/image/6.jpg
+/user/hduser/input/image/8.jpg
